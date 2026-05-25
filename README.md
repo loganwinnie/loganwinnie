@@ -1,6 +1,6 @@
 # Logan Winnie
 
-Full-stack engineer — TypeScript / Next.js, Python / Django, GCP-certified. Came to engineering through running ops (managing P&Ls, migrating enterprise SaaS, rebuilding POS systems) and now I build the software I used to file tickets about.
+Full-stack engineer — TypeScript / Next.js, Python / Django, GCP-certified. Came to engineering through running ops (managing P&Ls, migrating enterprise SaaS, rebuilding POS systems)..
 
 📍 Saugerties, NY · open to SWE and founding-engineer roles · remote or NYC-flexible
 
@@ -12,7 +12,7 @@ Full-stack engineer — TypeScript / Next.js, Python / Django, GCP-certified. Ca
 
 ## Featured work
 
-### [saugerties-storage](https://github.com/loganwinnie/saugerties-storage) · [live ↗](https://saugerties-storage.vercel.app)
+### [saugerties-storage](https://github.com/loganwinnie/saugerties-storage) · [live ↗](https://saugertiesstorage.com)
 `Next.js` `TypeScript` `Tailwind` `Docker`
 
 Marketing site I built as a contract engineer for the storage business I used to operate. SSR plus structured-data markup pushed it to page-one local search inside a month and tripled qualified inbound leads. 
