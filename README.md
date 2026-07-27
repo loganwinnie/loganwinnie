@@ -1,33 +1,38 @@
 # Logan Winnie
 
-Full-stack engineer — TypeScript / Next.js, Python / Django, GCP-certified. Came to engineering through running ops (managing P&Ls, migrating enterprise SaaS, rebuilding POS systems)..
+Full-stack engineer. TypeScript / Next.js, Python / FastAPI / Django, GCP-certified. Came to engineering through running ops: managing P&Ls, migrating enterprise SaaS, rebuilding POS systems.
 
-📍 Saugerties, NY · open to SWE and founding-engineer roles · remote or NYC-flexible
+📍 Saugerties, NY · open to solutions, implementation, and product engineering roles · remote or NYC-flexible
 
 ## Currently
 
-- **Day job:** Operations Manager at AutoCamp Catskills — running a 10+ person team, co-authoring the operating budget, and doing enough Toast POS reconfiguration and data work that it bleeds into engineering more weeks than not.
-- **Building:** `pysock` (see below) and contributing to the saugerties-storage codebase.
-- **Looking for:** full-stack SWE roles and founding-engineer positions where the operator instinct is a feature, not a bug.
+- **Building:** [Backstop](https://getbackstop.app), monitoring and backup for apps built with AI and no-code tools. Uptime checks, error capture, and a rescue path for when a vibe-coded app breaks. Pre-launch, waitlist open.
+- **Client work:** independent software engineer since July 2025. Latest project: refactored and redeployed a FastAPI/React app for a client under NDA, now serving a few hundred users, with a CMS so their staff can publish without a developer.
+- **Also:** `pysock` (see below) and ongoing work on the saugerties-storage codebase.
+- **Looking for:** solutions, implementation, and product engineering roles where the operator instinct is a feature, not a bug.
 
 ## Featured work
+
+### [Backstop](https://getbackstop.app)
+`Next.js` `TypeScript`
+
+Monitoring and backup for apps built on AI and no-code tools. Catches downtime and bugs before your users do.
 
 ### [saugerties-storage](https://github.com/loganwinnie/saugerties-storage) · [live ↗](https://saugertiesstorage.com)
 `Next.js` `TypeScript` `Tailwind` `Docker`
 
-Marketing site I built as a contract engineer for the storage business I used to operate. SSR plus structured-data markup pushed it to page-one local search inside a month and tripled qualified inbound leads. 
+Marketing site I built as a contract engineer for the storage business I used to operate. SSR plus structured-data markup pushed it to page-one local search inside a month and tripled qualified inbound leads.
 
 ### [pysock](https://github.com/loganwinnie/pysock)
 `Python` `Docker` `Asyncio`
 
-An HTTP/1.1 server built from scratch in Python no `http.server`, no frameworks.
-Just the `socket` layer, `asyncio`, and the standard library.
+An HTTP/1.1 server built from scratch in Python. No `http.server`, no frameworks. Just the `socket` layer, `asyncio`, and the standard library.
 
 ## Stack
 
 **Languages:** TypeScript, JavaScript (ES6+), Python, SQL
 **Frontend:** React, Next.js, Tailwind, Redux
-**Backend:** Django, Flask, Node, Express, REST, Socket.io
+**Backend:** FastAPI, Django, Flask, Node, Express, REST, Socket.io
 **Data & infra:** PostgreSQL, Prisma, GCP (Associate Cloud Engineer), Docker, CI/CD, Selenium
 
 ## Background
